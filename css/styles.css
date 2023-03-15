@@ -2,16 +2,11 @@ body {
   font-family: "https://fonts.googleapis.com/css2?family=Raleway:wght@700&family=Roboto:wght@400;500;700;900&display=swap"
     rel= "stylesheet";
 }
-header {
+a {
   text-decoration: none;
+  text-decoration-color: #2196f3;
 }
-link: {
-  text-decoration: none;
-}
-.link:hover {
-  text-decoration: none;
-  color: greenyellow;
-}
-.h3 {
-  text-decoration-color: brown;
-}
+
+/*link:focus {
+  text-decoration-color: rgb(255, 0, 0);
+}*/
