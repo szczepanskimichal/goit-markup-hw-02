@@ -1,12 +1,23 @@
 body {
-  font-family: "https://fonts.googleapis.com/css2?family=Raleway:wght@700&family=Roboto:wght@400;500;700;900&display=swap"
-    rel= "stylesheet";
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Raleway:wght@700&family=Roboto:wght@400;500;700;900&display=swap" rel="stylesheet">
 }
 a {
   text-decoration: none;
-  text-decoration-color: #2196f3;
 }
-
+link:hover{
+  text-decoration-color: #2196F3;
+}
+h3 {
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 36px;
+  letter-spacing: 0.06em;
+  text-align: left;
+  color: #212121;
+}
 /*link:focus {
   text-decoration-color: rgb(255, 0, 0);
 }*/
