@@ -3,7 +3,7 @@
 body {
   color: #212121;
 }
-.buttons:hover .botton:hover {
+.buttons .botton:hover {
   background-color: #2196f3;
 }
 a {
