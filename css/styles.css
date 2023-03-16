@@ -1,4 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Raleway:wght@700&family=Roboto:wght@400;500;700;900&display=swap");
+.logo:hover {
+  text-decoration: underline #2196f3;
+}
 .web {
   font-family: Roboto;
   font-size: 26px;
