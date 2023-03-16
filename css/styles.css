@@ -1,4 +1,30 @@
 @import url("https://fonts.googleapis.com/css2?family=Raleway:wght@700&family=Roboto:wght@400;500;700;900&display=swap");
+.web {
+  font-family: Roboto;
+  font-size: 26px;
+  font-weight: 700;
+  line-height: 31px;
+  letter-spacing: 0.03em;
+  text-align: left;
+  color: #2196f3;
+}
+.studio {
+  font-family: Roboto;
+  font-size: 26px;
+  font-weight: 700;
+  line-height: 31px;
+  letter-spacing: 0.03em;
+  text-align: left;
+  color: #000000;
+}
+.stu {
+  font-family: Roboto;
+  font-size: 26px;
+  font-weight: 700;
+  line-height: 31px;
+  letter-spacing: 0.03em;
+  color: #ffffff;
+}
 .link {
   font-family: Roboto;
   font-size: 14px;
@@ -6,7 +32,6 @@
   line-height: 16px;
   letter-spacing: 0.02em;
   text-align: left;
-
   color: #212121;
 }
 .mailto {
