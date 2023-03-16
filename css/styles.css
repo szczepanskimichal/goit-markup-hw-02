@@ -1,11 +1,45 @@
 @import url("https://fonts.googleapis.com/css2?family=Raleway:wght@700&family=Roboto:wght@400;500;700;900&display=swap");
+.link {
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 16px;
+  letter-spacing: 0.02em;
+  text-align: left;
 
+  color: #212121;
+}
+
+.link:hover {
+  text-decoration: underline #2196f3;
+  color: #2196f3;
+}
 body {
   color: #212121;
 }
-.buttons .botton:hover {
+ul {
+  list-style-type: none;
+}
+
+.button {
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 26px;
+  letter-spacing: 0.03em;
+  text-align: center;
+}
+.button:hover {
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 26px;
+  letter-spacing: 0.03em;
+  text-align: center;
+  color: #ffffff;
   background-color: #2196f3;
 }
+
 a {
   text-decoration: none;
 }
@@ -17,6 +51,47 @@ h3 {
   letter-spacing: 0.06em;
   text-align: left;
   color: #212121;
+}
+h3 {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 36px;
+  letter-spacing: 0.06em;
+
+  color: #212121;
+}
+h3:hover {
+  text-decoration: underline #2196f3;
+}
+h4 {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 30px;
+  letter-spacing: 0.03em;
+  color: #757575;
+}
+h4:hover {
+  text-decoration: underline #2196f3;
+}
+.footer {
+  background: #2f303a;
+}
+.adress {
+  text-decoration: none;
+  background: #2f303a;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  letter-spacing: 0.03em;
+  color: #ffffff;
+}
+.contact {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  letter-spacing: 0.03em;
+  text-decoration-line: underline;
+  color: rgba(255, 255, 255, 0.6);
 }
 /*link:focus {
   text-decoration-color: rgb(255, 0, 0);
