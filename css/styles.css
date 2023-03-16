@@ -161,6 +161,22 @@ h4:hover {
 .tel:hover {
   text-decoration: underline #2196f3;
 }
+.loremIpsum {
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 16px;
+  letter-spacing: 0.03em;
+  text-align: left;
+}
+.lorem {
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.03em;
+  text-align: left;
+}
 /*.pointer {
   cursor: pointer;
 }*/
