@@ -9,7 +9,29 @@
 
   color: #212121;
 }
+.mailto {
+  width: 135px;
+  height: 16px;
+  left: 1078px;
+  top: 32px;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.02em;
+  color: #757575;
+}
+.tel1 {
+  width: 110px;
+  height: 16px;
+  left: 1263px;
+  top: 32px;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.02em;
 
+  color: #757575;
+}
 .link:hover {
   text-decoration: underline #2196f3;
   color: #2196f3;
@@ -85,6 +107,9 @@ h4:hover {
   letter-spacing: 0.03em;
   color: #ffffff;
 }
+.adress:hover {
+  text-decoration: underline #2196f3;
+}
 .contact {
   font-weight: 400;
   font-size: 14px;
@@ -93,6 +118,19 @@ h4:hover {
   text-decoration-line: underline;
   color: rgba(255, 255, 255, 0.6);
 }
+.tel {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  letter-spacing: 0.03em;
+  color: rgba(255, 255, 255, 0.6);
+}
+.tel:hover {
+  text-decoration: underline #2196f3;
+}
+/*.pointer {
+  cursor: pointer;
+}*/
 /*link:focus {
   text-decoration-color: rgb(255, 0, 0);
 }*/
