@@ -20,6 +20,9 @@
   letter-spacing: 0.02em;
   color: #757575;
 }
+.mailto:hover {
+  text-decoration: underline #2196f3;
+}
 .tel1 {
   width: 110px;
   height: 16px;
@@ -29,8 +32,10 @@
   font-size: 14px;
   line-height: 16px;
   letter-spacing: 0.02em;
-
   color: #757575;
+}
+.tel1:hover {
+  text-decoration: underline #2196f3;
 }
 .link:hover {
   text-decoration: underline #2196f3;
