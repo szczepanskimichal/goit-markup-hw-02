@@ -85,6 +85,7 @@ h3 {
 }
 .footer {
   background: #2f303a;
+  line-height: 1.5;
 }
 .address {
   text-decoration: none;
