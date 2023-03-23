@@ -49,6 +49,7 @@ header {
   color: #2196f3;
 }
 .tel1 {
+  font-size: 14px;
   letter-spacing: 0.03em;
   color: #757575;
 }
@@ -141,6 +142,7 @@ p {
   font-family: "Roboto";
   font-size: 14px;
   font-weight: 400;
+  line-height: 1.7;
   text-decoration: none;
   font-style: normal;
   background: #2f303a;
