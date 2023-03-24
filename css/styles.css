@@ -13,7 +13,6 @@ body {
 .web {
   font-size: 26px;
   letter-spacing: 0.03em;
-  text-align: left;
   color: #2196f3;
   font-weight: 700;
 }
@@ -21,7 +20,6 @@ body {
   font-size: 26px;
   letter-spacing: 0.03em;
   font-weight: 700;
-  text-align: left;
   color: #000000;
 }
 .stu {
@@ -104,21 +102,23 @@ h1 {
   font-size: 44px;
   text-align: center;
 }
-h2 {
+.sectionHeading {
   font-size: 36px;
   font-weight: 700;
-  letter-spacing: 0.03em;
   line-height: 1.2;
 }
-h3 {
+
+.name {
   font-weight: 500;
   font-size: 16px;
-  letter-spacing: 0.03em;
   line-height: 1.2;
-  text-align: left;
   color: #212121;
 }
-p {
+.signature {
+  font-weight: 700;
+  font-size: 18px;
+}
+.signaatureP {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.2;
@@ -150,6 +150,7 @@ p {
   letter-spacing: 0.03em;
   color: #757575;
 }
+
 /*Portfolio*/
 .buttonsP {
   padding-top: 93px;
@@ -163,6 +164,7 @@ p {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.6;
+  cursor: pointer;
 }
 .buttonP:hover,
 .buttonP:focus {
@@ -171,4 +173,3 @@ p {
   box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 1px 2px rgba(0, 0, 0, 0.08),
     0px 2px 2px rgba(0, 0, 0, 0.12);
 }
-asa
