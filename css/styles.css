@@ -129,14 +129,12 @@ h1 {
   font-weight: 700;
   font-size: 18px;
 }
-.signaatureP {
-  font-weight: 400;
+.signatureP {
   font-size: 16px;
   line-height: 1.2;
   color: #757575;
 }
 .workplace {
-  font-weight: 500;
   font-size: 16px;
   letter-spacing: 0.03em;
   line-height: 1.2;
