@@ -91,12 +91,15 @@ ul {
   font-size: 14px;
   line-height: 1.1;
   letter-spacing: 0.03em;
+  color: #212121;
 }
 .lorem-description {
   font-size: 14px;
   line-height: 1.7;
   letter-spacing: 0.03em;
   color: #757575;
+}
+.whatWeDo {
 }
 section {
   color: #ffffff;
