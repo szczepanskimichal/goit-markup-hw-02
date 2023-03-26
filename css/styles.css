@@ -15,33 +15,39 @@ body {
   font-size: 26px;
   letter-spacing: 0.03em;
   color: #2196f3;
+  line-height: 1.2;
   font-weight: 700;
 }
 .studio {
   font-size: 26px;
   letter-spacing: 0.03em;
   font-weight: 700;
+  line-height: 1.2;
   color: #000000;
 }
 .stu {
   font-size: 26px;
   letter-spacing: 0.03em;
   font-weight: 700;
+  line-height: 1.2;
   color: #ffffff;
 }
 
 .link {
   font-weight: 500;
   font-size: 14px;
-  letter-spacing: 0.03em;
+  letter-spacing: 0.02em;
   color: #212121;
 }
 .mailto {
+  font-weight: 500;
   font-size: 14px;
   letter-spacing: 0.02em;
+  line-height: ;
   color: #757575;
 }
 .tel1 {
+  font-weight: 500;
   font-size: 14px;
   letter-spacing: 0.03em;
   color: #757575;
@@ -65,10 +71,6 @@ a {
 ul {
   list-style-type: none;
   line-height: 1.5;
-}
-.buttons {
-  display: flex;
-  justify-content: space-between;
 }
 .button {
   width: 200px;
@@ -108,7 +110,7 @@ section {
 h1 {
   font-weight: 900;
   font-size: 44px;
-  text-align: center;
+  line-height: 1.4;
 }
 .sectionHeading {
   font-size: 36px;
@@ -128,10 +130,14 @@ h1 {
 .signature {
   font-weight: 700;
   font-size: 18px;
+  line-height: 2;
+  letter-spacing: 0.06em;
+  color: #212121;
 }
 .signatureP {
   font-size: 16px;
-  line-height: 1.2;
+  line-height: 1.9;
+  letter-spacing: 0.03em;
   color: #757575;
 }
 .workplace {
@@ -154,6 +160,9 @@ h1 {
   color: #ffffff;
 }
 .address a {
+  font-size: 14px;
+  line-height: 1.7;
+  letter-spacing: 0.03em;
   color: rgba(255, 255, 255, 0.6);
 }
 .contact {
@@ -163,13 +172,12 @@ h1 {
 .tel {
   font-size: 14px;
   letter-spacing: 0.03em;
+  line-height: 1.7;
   color: #757575;
 }
 
 /*Portfolio*/
-.buttonsP {
-  padding-top: 93px;
-}
+
 .buttonP {
   background-color: #f5f4fa;
   border-radius: 4px;
